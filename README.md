@@ -1,4 +1,4 @@
-# hackathon-project# AI Deepfake Detection System
+# AI Deepfake Detection System
 
 This project detects AI-generated deepfake videos using machine learning
 and facial feature analysis.
